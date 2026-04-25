@@ -14,12 +14,12 @@ Just double-click `index.html` — that's it!
 1. Create a new GitHub repo (e.g. `kashish-portfolio`)
 2. Upload all files (drag & drop on GitHub)
 3. Repo **Settings → Pages → Branch: main / root → Save**
-4. Your site will be live at `https://<username>.github.io/<repo-name>/`
+4. Your site will be live at `https://kashish-dev620.github.io/portfolio/`
 
 ## ✏️ Customize
 - Update text and links directly in `index.html`
 - Change colors in `style.css` under `:root` (the `--primary`, `--gradient` variables)
-- Replace placeholder phone number `+91 99999 99999` in the Contact section
+- Replace placeholder phone number `+91 8112843546` in the Contact section
 
 ## 👩‍💻 Author
 Kashish Gupta
